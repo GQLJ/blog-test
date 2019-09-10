@@ -12,10 +12,6 @@
   
 给你们看看我学的代码 `html` `css` `js`
 
-````
-function f(){
-  console.log('hello world')
-}
-
-f()
-````
+```
+var b = 1
+```
