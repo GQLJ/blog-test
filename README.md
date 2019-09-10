@@ -12,6 +12,8 @@
   
 给你们看看我学的代码 `html` `css` `js`
 
-```
-var b = 1
+```css
+body{
+    background:red;
+}
 ```
